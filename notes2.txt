@@ -1,0 +1,53 @@
+
+
+Questions:
+Question : String str = “Hello How are You”;
+search = “How”
+Found:
+Not Found:
+
+Question : String str = “Hello How are You”;
+H - Frequency
+
+Question : String str = “Hello How are You”;
+Each Character Frequency
+
+150
+600+
+
+Operators
++ - * / - Arithmetic Operator
+a+ b; // a and b is operand
+
+> < == >= <= != Relational Operator (True/false)
+
+Sequential 
+Conditional 
+if else
+
+
+String predefine methods
+length()
+equals
+equalsIgnoreCase
+contains
+
+
+
+
+
+DataBase - Records
+Oracle, MySQL
+SQL - 
+select * from product where type=‘mobile’ and price between 2000 and 5000 and rating>=4
+
+
+
+What is String?
+a) String represent collection of chars , internally treated like char array or byte array.
+b) String is a predefine class in Java
+c) String objects can be created in 2 ways
+i) String Literal 
+ii) new String object
+d) String maintain String Pool. Pool save lot of memory.
+e) String is Immutable (Not Modify) 
