@@ -1,0 +1,60 @@
+// Command Line Input
+java UserInput 100 200
+
+Scanner - It is a Buffer, to Store the System Input.
+Input and Output are the slow things.
+
+Q1. Student Report Card
+Name:
+5 Subject Marks
+Total
+Percentage
+Grade 
+>=90 A Grade
+<Below 90 to 70 B Grade
+Below 70 to 50 C Grade
+Below 50 D Grade
+
+
+Q2. Given Product cost price and selling price Profit / Loss
+
+Q3. Create Calculator so it can do + - * /
+
+Question 4: Find Enter Number is  Positive or Negative Number
+
+Question  5: Check Whether a Enter value is Alphabet or Digit or Special Character
+
+Question 6: Check Enter Character is Capital or Small
+
+Question 7: Calculate the Profit or Loss.
+
+Question 8 : Take input of age of 3 people by user and determine oldest and youngest among them.
+
+Question 9 : A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+Take following input from user
+Number of classes held
+Number of classes attended.
+And print
+percentage of class attended
+Is student is allowed to sit in exam or not.
+
+Question 10: Write a  program to read temperature in centigrade and display a suitable message according to temperature state below.
+Temp < 0 then Freezing weather 
+Temp 0-10 then Very Cold weather
+Temp 10-20 then Cold weather
+Temp 20-30 then Normal in Temp 
+Temp 30-40 then Its Hot 
+Temp >=40 then Its Very Hot 
+
+Question 11: Write a  program to check whether an alphabet is a vowel or consonant 
+
+Question 12: Write a program  to calculate and print the Electricity bill of a given customer. The customer id., name and unit consumed by the user should be taken from the keyboard and display the total amount to pay to the customer. The charge are as follow
+￼
+
+if bill exceeds Rs. 400 then a surcharge of 15% will be charged and the minimum bill should be of Rs. 100/-
+Test Data :  1001 James  800  Expected Output : Customer IDNO :1001  Customer Name :James  unit Consumed :800  Amount Charges @Rs. 2.00 per unit : 1600.00  Surchage Amount : 240.00  Net Amount Paid By the Customer : 1840.00
+
+
+ Q13.Pythagorean Triplets
+Given 3 Numbers
+a^2 = B^2 + c^2
